@@ -7,4 +7,5 @@ There's already a main inside the files for easy testing, just remove the commen
 
 Exercise 09 is a hot mess and i do not recommend you doing  the way that i did, it's way easier if you 
 start by calling another function to put every letter lowercase and then doing the necessary checks
-to capitalize the letters that you need 
+to capitalize the letters that you need. Also C02 from the start you're basically creating <string.h>
+instead of creating all the checks i did
